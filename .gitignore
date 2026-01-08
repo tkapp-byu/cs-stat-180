@@ -7,4 +7,5 @@ temp_notebooks
 nb-2-pdf.py
 labs-pdf
 notebooks-pdf
-solutions.DS_Store
+solutions
+.DS_Store
